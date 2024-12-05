@@ -1,0 +1,5 @@
+Bottle ID,Label Status,Bottle Cap Status,Bottle Body Status,Monitoring date
+1,Wrong Label,OK,Dented,2024-11-12 15:12:20
+2,OK,OK,OK,2024-11-12 15:12:27
+3,No Label,Broken,Dented,2024-11-12 15:12:33
+4,OK,OK,OK,2024-11-12 15:12:36
